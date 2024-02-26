@@ -1,1 +1,5 @@
- Get User Data & Save!!!
+ 1. Get User Data & Save!!
+ 2. Process the data. 
+ 3. Update with appropriate message.
+ 4. Then save and exit.
+ 
