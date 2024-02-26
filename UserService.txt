@@ -2,4 +2,6 @@
  2. Process the data. 
  3. Update with appropriate message.
  4. Then save and exit.
+
+ 5. Log back in and create avatar for user.
  
